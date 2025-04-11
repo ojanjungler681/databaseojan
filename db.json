@@ -1,0 +1,26 @@
+{
+  "produts": [
+    {
+      "id": 1,
+      "pid": "10086414",
+      "product": "Apple",
+      "price": "4",
+      "size": "T",
+      "type": "Fruit",
+      "shelf": "T5",
+      "launched": "01-Jun-22",
+      "email": "admin@xyz.com"
+    },
+    {
+      "id": 2,
+      "pid": "1234567890",
+      "product": "ticket pass",
+      "price": "12",
+      "size": "na",
+      "type": "na",
+      "shelf": "A1",
+      "launched": "03-Jun-22",
+      "email": "admin@xyz.com"
+    }
+  ]
+}
