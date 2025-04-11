@@ -1,2 +1,0 @@
-# databaseojan
-DATABASE BARCODE SPAREPART
