@@ -1,26 +1,43 @@
-{
-  "produts": [
-    {
-      "id": 1,
-      "pid": "10086414",
-      "product": "Apple",
-      "price": "4",
-      "size": "T",
-      "type": "Fruit",
-      "shelf": "T5",
-      "launched": "01-Jun-22",
-      "email": "admin@xyz.com"
-    },
-    {
-      "id": 2,
-      "pid": "1234567890",
-      "product": "ticket pass",
-      "price": "12",
-      "size": "na",
-      "type": "na",
-      "shelf": "A1",
-      "launched": "03-Jun-22",
-      "email": "admin@xyz.com"
-    }
-  ]
-}
+
+[
+  {
+    "kode": "BA-002-000038",
+    "nama": "BRIDGESTONE;BAN TUBELESS;16.00-25-32PR",
+    "jumlah": 0
+  },
+  {
+    "kode": "BA-002-000066",
+    "nama": "GT;BAN DALAM;8.25-15",
+    "jumlah": 0
+  },
+  {
+    "kode": "BA-002-000054",
+    "nama": "GT;BAN LUAR;8.25-15 14PR",
+    "jumlah": 0
+  },
+  {
+    "kode": "BA-002-000073",
+    "nama": "0;MARSET;8.25-15",
+    "jumlah": 0
+  },
+  {
+    "kode": "AA-002-000203",
+    "nama": "ADVANCE;BAN;11R22.5;GL292A",
+    "jumlah": 0
+  },
+  {
+    "kode": "BA-002-000107",
+    "nama": "ADVANCE;BAN TUBELESS;18.00-25-40PR;IND-4",
+    "jumlah": 0
+  },
+  {
+    "kode": "BA-002-000019",
+    "nama": "ADVANCE;BAN TUBELESS;21.00-25-40PR",
+    "jumlah": 0
+  },
+  {
+    "kode": "BA-002-000050",
+    "nama": "GT;BAN DALAM;10.00-20",
+    "jumlah": 0
+  }
+]
