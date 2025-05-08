@@ -1,13 +1,23 @@
 [
   {
     "code material": "BA-002-000038",
-    "material description": "BRIDGESTONE;BAN TUBELESS;16.00-25-32PR",
-    "kategori": 0
+    "material description": "AKU SUKA TOBRUT",
+    "kategori": "TOBRUT JAHAT"
   },
   {
     "code material": "BA-002-000066",
-    "material description": "GT;BAN DALAM;8.25-15",
-    "kategori": 0
-  }
+    "material description": "AKU SUKA SPEK NASI KFC",
+    "kategori": "TOBRUT BAIK"
+  },
+  {
+    "code material": "BA-002-000366",
+    "material description": "AKU SUKA YALIL YALLILI",
+    "kategori": "NYAKITIN"
+  },
+    {
+    "code material": "BA-002-000466",
+    "material description": "AKU SUKA CWEK PENDEK",
+    "kategori": "BOTOL YAKULT"
+    }
 ]
   
