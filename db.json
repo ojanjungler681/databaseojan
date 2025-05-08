@@ -1,42 +1,17 @@
 [
   {
-    "kode": "BA-002-000038",
-    "nama": "BRIDGESTONE;BAN TUBELESS;16.00-25-32PR",
-    "jumlah": 0
+    "code material": "CC-005-000357",
+    "material description": "YUASA;AIR ACCU;0",
+    "kategori": "AIR AKI"
   },
   {
-    "kode": "BA-002-000066",
-    "nama": "GT;BAN DALAM;8.25-15",
-    "jumlah": 0
+    "code material": "AB-015-000470",
+    "material description": "YUASA;ACCU;N120;120A",
+    "kategori": "AKI"
   },
   {
-    "kode": "BA-002-000054",
-    "nama": "GT;BAN LUAR;8.25-15 14PR",
-    "jumlah": 0
+    "code material": "AB-015-000543",
+    "material description": "YUASA;ACCU;12V 70AH",
+    "kategori": "AKI"
   },
-  {
-    "kode": "BA-002-000073",
-    "nama": "0;MARSET;8.25-15",
-    "jumlah": 0
-  },
-  {
-    "kode": "AA-002-000203",
-    "nama": "ADVANCE;BAN;11R22.5;GL292A",
-    "jumlah": 0
-  },
-  {
-    "kode": "BA-002-000107",
-    "nama": "ADVANCE;BAN TUBELESS;18.00-25-40PR;IND-4",
-    "jumlah": 0
-  },
-  {
-    "kode": "BA-002-000019",
-    "nama": "ADVANCE;BAN TUBELESS;21.00-25-40PR",
-    "jumlah": 0
-  },
-  {
-    "kode": "BA-002-000050",
-    "nama": "GT;BAN DALAM;10.00-20",
-    "jumlah": 0
-  }
 ]
