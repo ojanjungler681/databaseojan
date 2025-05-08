@@ -1,13 +1,13 @@
 [
   {
-    "kode": "BA-002-000038",
-    "nama": "BRIDGESTONE;BAN TUBELESS;16.00-25-32PR",
-    "jumlah": 0
+    "code material": "BA-002-000038",
+    "material description": "BRIDGESTONE;BAN TUBELESS;16.00-25-32PR",
+    "kategori": 0
   },
   {
-    "kode": "BA-002-000066",
-    "nama": "GT;BAN DALAM;8.25-15",
-    "jumlah": 0
+    "code material": "BA-002-000066",
+    "material description": "GT;BAN DALAM;8.25-15",
+    "kategori": 0
   },
   {
     "kode": "BA-002-000054",
