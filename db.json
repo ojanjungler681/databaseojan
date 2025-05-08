@@ -1,23 +1,277 @@
 [
   {
-    "code material": "BA-002-000038",
-    "material description": "AKU SUKA TOBRUT",
-    "kategori": "TOBRUT JAHAT"
+    "code material": "CC-005-000357",
+    "material description": "YUASA;AIR ACCU;0",
+    "kategori": "AIR AKI"
   },
   {
-    "code material": "BA-002-000066",
-    "material description": "AKU SUKA SPEK NASI KFC",
-    "kategori": "TOBRUT BAIK"
+    "code material": "AB-015-000470",
+    "material description": "YUASA;ACCU;N120;120A",
+    "kategori": "AKI"
   },
   {
-    "code material": "BA-002-000366",
-    "material description": "AKU SUKA YALIL YALLILI",
-    "kategori": "NYAKITIN"
+    "code material": "BA-002-001035",
+    "material description": "GT;BAN DALAM;8.25-15",
+    "kategori": "BAN FORKLIFT 7 T (BAN DALAM)"
   },
-    {
-    "code material": "BA-002-000466",
-    "material description": "AKU SUKA CWEK PENDEK",
-    "kategori": "BOTOL YAKULT"
-    }
+  {
+    "code material": "BA-002-001026",
+    "material description": "GT;BAN LUAR;8.25-15 14PR",
+    "kategori": "BAN FORKLIFT 7 T (BAN LUAR)"
+  },
+  {
+    "code material": "BA-002-001041",
+    "material description": "0;MARSET;8.25-15",
+    "kategori": "BAN FORKLIFT 7 T (MARSET)"
+  },
+  {
+    "code material": "BA-002-001063",
+    "material description": "GT;MARSET 8.25-15",
+    "kategori": "BAN FORKLIFT 7 T (MARSET)"
+  },
+  {
+    "code material": "AA-002-000203",
+    "material description": "ADVANCE;BAN;11R22.5;GL292A",
+    "kategori": "BAN HEAD TT"
+  },
+  {
+    "code material": "BA-002-001068",
+    "material description": "ADVANCE;BAN TUBELESS;18.00-25-40PR;IND-4",
+    "kategori": "BAN RS"
+  },
+  {
+    "code material": "BA-002-001023",
+    "material description": "GT;BAN DALAM;10.00-20",
+    "kategori": "BAN TT/HTTNT (BAN DALAM)"
+  },
+  {
+    "code material": "BA-002-001025",
+    "material description": "GT;BAN LUAR;10.00-20",
+    "kategori": "BAN TT/HTTNT (BAN LUAR)"
+  },
+  {
+    "code material": "BA-002-000983",
+    "material description": "0;MARSET;10.00-20.00",
+    "kategori": "BAN TT/HTTNT (MARSET)"
+  },
+  {
+    "code material": "CA-002-000006",
+    "material description": "GT;MARSET;10.00-20.00",
+    "kategori": "BAN TT/HTTNT (MARSET)"
+  },
+  {
+    "code material": "AA-012-002311",
+    "material description": "SKF;BEARING;22230 CC/W33",
+    "kategori": "BEARING"
+  },
+  {
+    "code material": "BD-004-001979",
+    "material description": "DONALDSON;OIL FILTER;J86-10431",
+    "kategori": "DONALDSON"
+  },
+  {
+    "code material": "BD-001-000784",
+    "material description": "FLEETGUARD;FUEL FILTER;FF5421",
+    "kategori": "FLEETGUEERD"
+  },
+  {
+    "code material": "BD-001-000787",
+    "material description": "FLEETGUARD;FUEL FILTER;FS19732",
+    "kategori": "FLEETGUEERD"
+  },
+  {
+    "code material": "BD-003-000719",
+    "material description": "FLEETGUARD;AIR FILTER;AF25830",
+    "kategori": "FLEETGUEERD"
+  },
+  {
+    "code material": "BD-003-000722",
+    "material description": "FLEETGUARD;INNER AIR FILTER;AF25897",
+    "kategori": "FLEETGUEERD"
+  },
+  {
+    "code material": "BD-003-000810",
+    "material description": "FLEETGUARD;AIR FILTER;AF4878",
+    "kategori": "FLEETGUEERD"
+  },
+  {
+    "code material": "BD-004-002028",
+    "material description": "FLEETGUARD;HT LUBE FILTER;LF16015",
+    "kategori": "FLEETGUEERD"
+  },
+  {
+    "code material": "BD-004-002029",
+    "material description": "FLEETGUARD;HYDRAULIC FILTER;HF28943",
+    "kategori": "FLEETGUEERD"
+  },
+  {
+    "code material": "AA-015-004935",
+    "material description": "KALMAR;WIRE;923855.0070",
+    "kategori": "KALMAR"
+  },
+  {
+    "code material": "BD-003-000603",
+    "material description": "KALMAR FRESH FILTER 923829.0668",
+    "kategori": "KALMAR"
+  },
+  {
+    "code material": "BD-004-000941",
+    "material description": "KALMAR;BRAKE FILTER;923976.2805",
+    "kategori": "KALMAR"
+  },
+  {
+    "code material": "BD-004-001974",
+    "material description": "KALMAR;SERVO FILTER;923855.1184",
+    "kategori": "KALMAR"
+  },
+  {
+    "code material": "BD-004-002048",
+    "material description": "KALMAR;OIL FILTER;923855.1183",
+    "kategori": "KALMAR"
+  },
+  {
+    "code material": "BD-004-002050",
+    "material description": "KALMAR;FILTER TRANSMISI;923944.3095",
+    "kategori": "KALMAR"
+  },
+  {
+    "code material": "BD-004-002097",
+    "material description": "KALMAR;SERVO FILTER;923944.2530",
+    "kategori": "KALMAR"
+  },
+  {
+    "code material": "BD-001-000619",
+    "material description": "ISUZU;FUEL FILTER;8-98036-654-0",
+    "kategori": "MITSUBISHI"
+  },
+  {
+    "code material": "BD-001-000698",
+    "material description": "MITSUBISHI;FUEL FILTER;Z-8-98036-654-0",
+    "kategori": "MITSUBISHI"
+  },
+  {
+    "code material": "BD-003-000611",
+    "material description": "MITSUBISHI;ELEMENT OUTER AIR;9186101600",
+    "kategori": "MITSUBISHI"
+  },
+  {
+    "code material": "BD-004-002024",
+    "material description": "MITSUBISHI;FILTER TRANSMISI;65625-05300",
+    "kategori": "MITSUBISHI"
+  },
+  {
+    "code material": "AA-005-003150",
+    "material description": "FABRIKASI;KAMPAS BRAKE GANTRY",
+    "kategori": "SPAREPART CC"
+  },
+  {
+    "code material": "BD-001-000801",
+    "material description": "HINO;FUEL FILTER;23401-1440L",
+    "kategori": "SPAREPART HINO"
+  },
+  {
+    "code material": "BD-001-000901",
+    "material description": "HOP;FUEL FILTER;23401-1332L",
+    "kategori": "SPAREPART HINO"
+  },
+  {
+    "code material": "BD-003-000894",
+    "material description": "HINO;AIR FILTER;17801-3380",
+    "kategori": "SPAREPART HINO"
+  },
+  {
+    "code material": "AB-005-001609",
+    "material description": "PHILIPS;LAMPU SON-T;1000W",
+    "kategori": "SPAREPART LAMPU"
+  },
+  {
+    "code material": "AB-005-001784",
+    "material description": "PHILIPS;LAMPU SON-T;400W",
+    "kategori": "SPAREPART LAMPU"
+  },
+  {
+    "code material": "AB-005-002082",
+    "material description": "PHILIPS;BALLAST SON-T;BSN1000",
+    "kategori": "SPAREPART LAMPU"
+  },
+  {
+    "code material": "AB-002-000347",
+    "material description": "0;CAPASITOR;50MF",
+    "kategori": "SPAREPART LAMPU"
+  },
+  {
+    "code material": "AB-002-000529",
+    "material description": "0;CAPASITOR;25 MICROFARAD;400W",
+    "kategori": "SPAREPART LAMPU"
+  },
+  {
+    "code material": "AB-009-001361",
+    "material description": "PHILIPS;IGNITOR;SN56 1000W",
+    "kategori": "SPAREPART LAMPU"
+  },
+  {
+    "code material": "AB-009-001365",
+    "material description": "PHILIPS;BALLAST 400W,230VAC,50HZ;BHL 400",
+    "kategori": "SPAREPART LAMPU"
+  },
+  {
+    "code material": "AB-011-002312",
+    "material description": "OMRON;LIMIT SWITCH;WLCA12-2",
+    "kategori": "SPAREPART OMRON"
+  },
+  {
+    "code material": "AB-011-002892",
+    "material description": "IFM ELECTRONIC;PROXIMITY SENSOR;II5910",
+    "kategori": "SPAREPART PROXIMITY"
+  },
+  {
+    "code material": "AA-011-000724",
+    "material description": "KAMPAS BRAKE HOIS;FABRIKASI",
+    "kategori": "SPAREPART RTG"
+  },
+  {
+    "code material": "AA-013-000678",
+    "material description": "DID/TRP/DURALINK;CHAIN TRANSMISSION ROLL",
+    "kategori": "SPAREPART RTG"
+  },
+  {
+    "code material": "AA-013-000891",
+    "material description": "0;SAMBUNGAN RANTAI;CL 16BX2",
+    "kategori": "SPAREPART RTG"
+  },
+  {
+    "code material": "AA-010-001359",
+    "material description": "0;VALVE BRAKE;9710050020",
+    "kategori": "SPAREPART TT"
+  },
+  {
+    "code material": "BD-001-000845",
+    "material description": "VOLVO;FUEL FILTER;22480372",
+    "kategori": "VOLVO"
+  },
+  {
+    "code material": "BD-001-000848",
+    "material description": "VOLVO;FUEL FILTER;20805349",
+    "kategori": "VOLVO"
+  },
+  {
+    "code material": "VOLVO;FUEL FILTER;20805349",
+    "material description": "VOLVO;FILTER WATER SEPARATOR;20998367",
+    "kategori": "VOLVO"
+  },
+  {
+    "code material": "BD-001-000909",
+    "material description": "VOLVO;WATER SEPARATOR FILTER;11110683",
+    "kategori": "VOLVO"
+  },
+  {
+    "code material": "BD-004-002072",
+    "material description": "VOLVO;OIL FILTER BY PASS;21632667",
+    "kategori": "VOLVO"
+  },
+  {
+    "code material": "BD-004-002105",
+    "material description": "VOLVO;OIL FILTER;23075366",
+    "kategori": "VOLVO"
+  }
 ]
-  
