@@ -1,0 +1,18 @@
+function doPost(e) {
+  try {
+    const sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+    
+    const rowData = [
+      e.parameter.date,
+      e.parameter.time,
+      e.parameter.code,
+      e.parameter.desc,
+      e.parameter.cat
+    ];
+    
+    sheet.appendRow(rowData);
+    return ContentService.createTextOutput(JSON.stringify({status: "success"}));
+  } catch (error) {
+    return ContentService.createTextOutput(JSON.stringify({status: "error", message: error.message}));
+  }
+}
